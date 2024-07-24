@@ -1,0 +1,32 @@
+[
+  {
+    "firstName": "Ebubekir",
+    "lastName": "Özdemir",
+    "age": 14,
+    "hobbie": "yazılım"
+  },
+  {
+    "firstName": "Naz",
+    "lastName": "Hacıfevzioğlu",
+    "age": 15,
+    "hobbie": "müzik dinlemek"
+  },
+  {
+    "firstName": "Azra Elmas",
+    "lastName": "Yıldız",
+    "age": 14,
+    "hobbie": "konyalı"
+  },
+  {
+    "firstName": "Egehan",
+    "lastName": "Yıldırım",
+    "age": 14,
+    "hobbie": "gerizekalı"
+  },
+  {
+    "firstName": "Önder",
+    "lastName": "Vayvada",
+    "age": 14,
+    "hobbie": "basketbol"
+  }
+]
